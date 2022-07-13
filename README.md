@@ -1,12 +1,11 @@
 # Exercicios_em_C
- Todos os meus conhecimentos em linguagem C. 
+ **Todos os meus conhecimentos em linguagem C.** 
+ *Desafios de usar o VS Code*
+ __________________________________________
 
 Aula 1 - Primeira Biblioteca - Função principal (main) - printf - return. 
 
     /* 
-
-
-                                        Desafios de usar o VS Code
 
 Aula 1 - Primiera execução no VS Code
 
@@ -21,4 +20,20 @@ Aula 1 - Primiera execução no VS Code
     /// Tem o "Promtp de comando"; O "PowerShell" e o "Git Bast" do Git. 
     /// Fonte da informação: https://www.alura.com.br/artigos/como-utilizar-terminal-integrado-visual-studio-code
 
-Aula 2 - Print arquivos na tela
+Aula 2 - Print arquivos na tela 
+
+    /* 
+
+Aula 2 - Termos em Git e GitHub
+
+    **Repositório Central** 
+    Quando você pega uma pasta, monitora ela e manda pra um repositório central, Nós fizemos um commit.
+		    
+    **Push** 
+    Pegar o versionamento que esta na sua maquina e jogar no repositório. 
+		    
+	**Isses** 
+    São Problemas que você descobriu, mas não sabe como resolver.
+		    
+	**Pull Requests** 
+    Você viu um problema no software e cria uma fork, depois criar uma ramificação desse projeto e concertar esse trabalho e então enviar sua solução para um desenvolvedor. Talvez você virar um colaborar desse projeto, e pode colocar no seu curriculo. 
