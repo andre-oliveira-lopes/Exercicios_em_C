@@ -22,11 +22,11 @@
     /// Tem o "Promtp de comando"; O "PowerShell" e o "Git Bast" do Git. 
     /// Fonte da informação: https://www.alura.com.br/artigos/como-utilizar-terminal-integrado-visual-studio-code
 
-Aula 2 - Print arquivos na tela 
+**Aula 2 - Print arquivos na tela** 
 
     /* 
 
-Aula 2 - Termos em Git e GitHub
+**Aula 2 - Termos em Git e GitHub**
 
     **Repositório Central** 
     Quando você pega uma pasta, monitora ela e manda pra um repositório central, Nós fizemos um commit.
@@ -34,8 +34,22 @@ Aula 2 - Termos em Git e GitHub
     **Push** 
     Pegar o versionamento que esta na sua maquina e jogar no repositório. 
 		    
-	**Isses** 
+	**Issues** 
     São Problemas que você descobriu, mas não sabe como resolver.
 		    
 	**Pull Requests** 
-    Você viu um problema no software e cria uma fork, depois criar uma ramificação desse projeto e concertar esse trabalho e então enviar sua solução para um desenvolvedor. Talvez você virar um colaborar desse projeto, e pode colocar no seu curriculo. 
+    Você viu um problema no software e cria uma fork, depois criar uma ramificação desse projeto e concertar esse
+    trabalho e então enviar sua solução para um desenvolvedor. Talvez você virar um colaborar desse projeto, e 
+    pode colocar no seu curriculo. 
+
+**Aula 3 - teste** 
+
+    /* 
+
+**Aula 3 - Descobrindo o README.md é na verdade uma linguagem de marcação**
+
+    /// A linguagem de Marcação Markdown que tem a terminação .md na verdade é uma irmã da HTML feita com o objetivo de ser uma linguem de facil leitura. Vvamos agora aprender a usar algumas guias (marcas) do Markdown, mas antes de tudo, onde eu posso usá-las? 
+    /// README.md ; Issues ; Pull Requests. 
+
+    **NEGRITO**
+    Assim fazemos um negrito na linguagem de Marcação Markdown. 
