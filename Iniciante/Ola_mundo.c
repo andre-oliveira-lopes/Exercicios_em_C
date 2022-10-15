@@ -3,6 +3,7 @@
 int main()
 {
 
-    printf ("\n Ola, Mundo teste! \n");
+    printf ("\n Ola, Mundo! \n");
+    printf ("Testando codigos em C"); 
     return 0;
 }
