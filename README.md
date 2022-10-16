@@ -8,17 +8,19 @@
 
 ### **NÍVEL I -- introdução a conceitos e Comandos básicos**
 
-        Se você ainda se sente meio perdido, tentarei exemplificar ao maximo todos os processos!
-        Mais eu quero que saiba, tera dias em que a frustração por falhar será inevitavel, 
-        mas isso não é motivo para desistir, com estudo e dedicação é possivel vencer tudo.  
+Se você ainda se sente meio perdido, tentarei exemplificar ao maximo todos os processos!
+Mais eu quero que saiba, tera dias em que a frustração por falhar será inevitavel, 
+mas isso não é motivo para desistir, com estudo e dedicação é possivel vencer tudo.  
 
 **Aula 1** 
-**Compilador || Primeira Biblioteca || Função principal (main) ||**
 
-    /* teste */
+**Compilador || Primeira Biblioteca || Função principal (main)**
 
+Compilador - 
 
-**Aula 2 -  printf || return ||** 
+**Aula 2** 
+
+**printf || return ||** 
 
     /* 
 
