@@ -1,4 +1,4 @@
-    # Exercicios_em_C
+# Exercicios_em_C
  ## **Todos os meus conhecimentos em linguagem C.**
  
  Aqui eu tive a ideia de colocar pequenos codigos que eu fui desenvolvendo ao longo do meu aprendizado, não 
@@ -12,10 +12,10 @@
         Mais eu quero que saiba, tera dias em que a frustração por falhar será inevitavel, 
         mas isso não é motivo para desistir, com estudo e dedicação é possivel vencer tudo.  
 
-**Aula 1 - Compilador || Primeira Biblioteca || Função principal (main) ||**
+**Aula 1** 
+**Compilador || Primeira Biblioteca || Função principal (main) ||**
 
-
-    /* 
+    /* teste */
 
 
 **Aula 2 -  printf || return ||** 
