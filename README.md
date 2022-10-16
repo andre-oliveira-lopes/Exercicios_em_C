@@ -58,7 +58,7 @@ __*֎ História*__
 __*֎ Compilador*__
     
     ................................
-    
+
 __*֎ Primeira Biblioteca*__
 
     ................................
@@ -71,9 +71,14 @@ __*֎ Comentários*__
 
     ................................
 
+### **NÍVEL 1 -- Tipos de Variáveis, Operadores Lógicos e Aritméticos, Comandos de Entrada/Saída e Return**
+
+Agora que temos a base inicial dessa linguagem, devemos começar a entender como manuealas, então de nível
+em nível vamos descobrir da melhor forma que você possa aprender...
+
 **Aula 2** 
 ---
-**printf || return ||** 
+**Variáveis || Operadores || Comandos de Entrada/Saída de Dados|| Return ||** 
 
     /* 
 
