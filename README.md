@@ -1,5 +1,6 @@
-#                       Exercicios_em_C
+# Exercicios_em_C
  **Todos os meus conhecimentos em linguagem C.**
+ 
  Aqui eu tive a ideia de colocar pequenos codigos que eu fui desenvolvendo 
  ao longo do meu aprendizado, não são coisas tão avançadas, mas devemos 
  começar a resolver desafios e achar soluções para tudo, então pelo menos 
