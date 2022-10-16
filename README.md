@@ -78,13 +78,27 @@ em nível vamos descobrir da melhor forma que você possa aprender...
 
 **Aula 2** 
 ---
-**Variáveis || Operadores || Comandos de Entrada/Saída de Dados|| Return ||** 
+**Variáveis || Operadores || Comandos de Entrada/Saída de Dados || Return** 
 
-    /* 
+__*֎ Variáveis*__ 
+
+    ................................
+
+__*֎ Operadores*__
+
+    ................................
+
+__*֎ Comandos de Entrada/Saída de Dados*__
+
+    ................................
+
+__*֎ Return*__
+
+    ................................
 
 **Aula 3 - teste** 
 ---
-    /* 
+
 
 
 
