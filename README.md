@@ -55,7 +55,21 @@ __*֎ História*__
     possíveis de serem feitas. E é nessa hora que é usada a famosa frase dos programadores: 
     “Dividir para conquistar!”. 
 
-    Compilador - 
+__*֎ Compilador*__
+    
+    ................................
+    
+__*֎ Primeira Biblioteca*__
+
+    ................................
+
+__*֎ Função principal (main)*__ 
+
+    ................................
+
+__*֎ Comentários*__
+
+    ................................
 
 **Aula 2** 
 ---
