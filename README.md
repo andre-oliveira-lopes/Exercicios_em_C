@@ -41,10 +41,13 @@ mas isso não é motivo para desistir, com estudo e dedicação é possivel venc
     pessoal. Assim, tornou-se rapidamente uma linguagem popular entre os programadores. Programas em C podem ser desenvolvidos em partes separadas por pessoas distintas e depois unidos num produto final, o que significa 
     que bibliotecas de funções podem ser criadas ou usadas sem realmente se conhecer o código de cada uma delas.
 
-    A linguagem C é uma linguagem considerada de médio nível, pois alia características de linguagens de alto nível 
-    (tais como Pascal, Fortran) e linguagens de baixo nível como Assembly. Pode-se afirmar com segurança que C é uma linguagem superior às demais pela sua flexibilidade, praticidade e poder de manipulação da máquina diretamente. 
-    Também podemos chamar C de linguagem estruturada, ou seja, são fragmentos de programa com começo, meio e fim bem definido e organizado. A filosofia básica de uma linguagem estruturada é dividir para trabalhar: você divide um 
-    problema em pequenas partes que sejam possíveis de serem feitas. E é nessa hora que é usada a famosa frase dos programadores “Dividir para conquistar!”
+    A linguagem C é uma linguagem considerada de médio nível, pois alia características de linguagens de alto 
+    nível (tais como Pascal, Fortran) e linguagens de baixo nível como Assembly. Pode-se afirmar com segurança 
+    que C é uma linguagem superior às demais pela sua flexibilidade, praticidade e poder de manipulação da 
+    máquina diretamente. Também podemos chamar C de linguagem estruturada, ou seja, são fragmentos de programa 
+    com começo, meio e fim bem definido e organizado. A filosofia básica de uma linguagem estruturada é dividir 
+    para trabalhar: você divide um problema em pequenas partes que sejam possíveis de serem feitas. E é nessa 
+    hora que é usada a famosa frase dos programadores “Dividir para conquistar!”
 
     Compilador - 
 
