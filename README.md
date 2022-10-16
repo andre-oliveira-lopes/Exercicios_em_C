@@ -17,7 +17,8 @@ mas isso não é motivo para desistir, com estudo e dedicação é possivel venc
 ---
 **História || Compilador || Primeira Biblioteca || Função principal (main) || Comentários** 
 
-__*História*__
+__*֎ História*__
+
     A linguagem C foi criada por Dennis M. Ritchie no laboratório Bell na década de 70 (1972). 
     Ela foi baseada na linguagem B, criada por Ken Thompson que, por Sua vez foi criada pela antiga 
     linguagem BCPL. Ritchie criou a linguagem C a partir de um sistema Unix e semelhante à linguagem B, 
