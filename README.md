@@ -9,9 +9,9 @@
 
 ### **NÍVEL I -- introdução a conceitos e Comandos básicos**
 
-    Se você ainda se sente meio perdido, tentarei exemplificar ao maximo todos os processos!
-    Mais eu quero que saiba, tera dias em que a frustração por falar será inevitavel, 
-    mas isso não é motivo para desistir, com estudo e dedicação é possivel vencer tudo.  
+        Se você ainda se sente meio perdido, tentarei exemplificar ao maximo todos os processos!
+        Mais eu quero que saiba, tera dias em que a frustração por falar será inevitavel, 
+        mas isso não é motivo para desistir, com estudo e dedicação é possivel vencer tudo.  
 
 **Aula 1 - Compilador || Primeira Biblioteca || Função principal (main) ||**
 
