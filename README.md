@@ -96,9 +96,60 @@ __*֎ Return*__
 
     ................................
 
-**Aula 3 - teste** 
+### **NÍVEL 2 - Estrutura de Repetição: For, While, do While || Estrutura de decisão: if, else e Switch case** ### 
+
+Aqui é onde as coisas começam a complicar, em outras palavras, é como se fossemos começar agora o 7º Ano
+do ensino fundamental maior, mas calma, iremos desenvolver bem essa parte e com muitos detalhes veremos 
+a verdadeira magica começar. 
+
+**Aula 3** 
 ---
+**Estrutura de Repetição || For || While || do While** 
+
+__*֎ Estrutura de Repetição*__ 
+
+    ................................
+
+__*֎ For*__ 
+
+    ................................
+
+__*֎ While*__ 
+
+    ................................
+
+__*֎ do While*__ 
+
+    ................................
+
+**Aula 4** 
+---
+**Estrutura de decisão: if, else e Switch case** 
+
+__*֎ Estrutura de decisão*__ 
+
+    ................................
+
+__*֎ if*__ 
+
+    ................................
+
+__*֎ else*__ 
+
+    ................................
+
+__*֎ Switch case*__ 
+
+    ................................
 
 
 
 
+
+
+
+------------------------- ideias para o final ----------------------------------
+$$$$$ Agora é hora de mudar de fase, e aprender outra linguagem de prgramação;
+¨¨¨¨ Falar sobre sites que você pode resolver problemas para melhorar a logica de programação
+**** forum para tirar suas duvidas
+agradecimentos e como posso melhorar ou corrigir algo já feito, podem fazer sugestões 
