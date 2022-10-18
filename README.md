@@ -187,8 +187,57 @@ __*֎ Ponteiros*__
 
     ................................
 
+### **NÍVEL 5 -- Lista, Fila e Pilha** ### 
 
+Aqui é onde as coisas começam a complicar um pouco mais e vai começar a possivelmente não entender de 
+primeira, mas basta ter paciência, em outras palavras, é como se fossemos começar o 2º Ano do ensino 
+médio, mas calma, iremos desenvolver bem essa parte e com muitos detalhes veremos a verdadeira 
+magica começar. 
 
+**Aula 7** 
+---
+**Lista || Fila || Pilha** 
+
+__*֎ Lista*__ 
+
+    ................................
+
+__*֎ Fila*__ 
+
+    ................................
+
+__*֎ Pilha*__ 
+
+    ................................
+
+### **NÍVEL 6 -- Comandos Definidos, Macros Definidas, Manipulação de Arquivos e Funções do Sistema** ### 
+
+Aqui é onde as coisas começam a complicar um pouco mais e vai começar a possivelmente não entender de 
+primeira, mas basta ter paciência, em outras palavras, é como se fossemos começar o 3º Ano do ensino 
+médio, mas calma, iremos desenvolver bem essa parte e com muitos detalhes veremos a verdadeira 
+magica começar. 
+
+**Aula 8** 
+---
+**Comandos Definidos || Macros Definidas || Manipulação de Arquivos || Funções do Sistema** 
+
+__*֎ Comandos Definidos*__ 
+
+    ................................
+
+__*֎ Macros Definidas*__ 
+
+    ................................
+
+__*֎ Manipulação de Arquivos*__ 
+
+    ................................
+
+__*֎ Funções do Sistema*__ 
+
+    ................................
+
+## Agora é hora de entrar na faculdade e fazer um sistema com tudo que aprendeu até agora. 
 ------------------------- ideias para o final ----------------------------------
 
 $$$$$ Agora é hora de mudar de fase, e aprender outra linguagem de prgramação;
