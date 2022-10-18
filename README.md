@@ -96,7 +96,7 @@ __*֎ Return*__
 
     ................................
 
-### **NÍVEL 2 - Estrutura de Repetição: For, While, do While || Estrutura de decisão: if, else e Switch case** ### 
+### **NÍVEL 2 -- Estrutura de Repetição: For, While, do While || Estrutura de decisão: if, else e Switch case** ### 
 
 Aqui é onde as coisas começam a complicar, em outras palavras, é como se fossemos começar agora o 7º Ano
 do ensino fundamental maior, mas calma, iremos desenvolver bem essa parte e com muitos detalhes veremos 
@@ -142,14 +142,59 @@ __*֎ Switch case*__
 
     ................................
 
+### **NÍVEL 3 -- Vetor, Matriz e Função** ### 
 
+Aqui é onde as coisas começam a complicar um pouco mais, em outras palavras, é como se fossemos começar 
+o 9º Ano do ensino fundamental maior, mas calma, iremos desenvolver bem essa parte e com muitos detalhes 
+veremos a verdadeira magica começar. 
 
+**Aula 5** 
+---
+**Vetor || Matriz || Funções** 
 
+__*֎ Vetor*__ 
+
+    ................................
+
+__*֎ Matriz*__ 
+
+    ................................
+
+__*֎ Funções*__ 
+
+    ................................
+
+### **NÍVEL 4 -- Estruturas, Strings e Ponteiros** ### 
+
+Aqui é onde as coisas começam a complicar um pouco mais e vai começar a possivelmente não entender de 
+primeira, mas basta ter paciência, em outras palavras, é como se fossemos começar o 1º Ano do ensino 
+médio, mas calma, iremos desenvolver bem essa parte e com muitos detalhes veremos a verdadeira 
+magica começar. 
+
+**Aula 6** 
+---
+**Estruturas || Strings || Ponteiros** 
+
+__*֎ Estruturas*__ 
+
+    ................................
+
+__*֎ Strings*__ 
+
+    ................................
+
+__*֎ Ponteiros*__ 
+
+    ................................
 
 
 
 ------------------------- ideias para o final ----------------------------------
+
 $$$$$ Agora é hora de mudar de fase, e aprender outra linguagem de prgramação;
+
 ¨¨¨¨ Falar sobre sites que você pode resolver problemas para melhorar a logica de programação
+
 **** forum para tirar suas duvidas
+
 agradecimentos e como posso melhorar ou corrigir algo já feito, podem fazer sugestões 
