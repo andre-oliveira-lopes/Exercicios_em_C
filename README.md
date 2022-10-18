@@ -1,4 +1,4 @@
-# Exercicios_em_C
+# Resumo_em_C
  ## **Todos os meus conhecimentos em linguagem C.**
  
  Aqui eu tive a ideia de colocar pequenos codigos que eu fui desenvolvendo ao longo do meu aprendizado, não 
@@ -124,7 +124,7 @@ __*֎ do While*__
 
 **Aula 4** 
 ---
-**Estrutura de decisão: if, else e Switch case** 
+**Estrutura de decisão || if || else || Switch case** 
 
 __*֎ Estrutura de decisão*__ 
 
