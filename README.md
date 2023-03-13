@@ -1,4 +1,4 @@
-# Resumo_em_C
+# Resumo em C
  ## **Todos os meus conhecimentos em linguagem C.**
  
  Aqui eu tive a ideia de colocar pequenos codigos que eu fui desenvolvendo ao longo do meu aprendizado, não 
